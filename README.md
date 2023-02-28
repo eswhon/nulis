@@ -18,7 +18,7 @@ Website Nulis Online, yang merupakan hasil karya saya, yang saya buat dari hasil
 Clone the project
 
 ```bash
-  git clone https://github.com/zaadevofc/nulis-online
+  git clone https://github.com/eswhon/nulis
 ```
 
 Go to the project directory
@@ -53,18 +53,7 @@ Project ini menggunakan teknologi / package / library berikut:
 - and others... 
 
 
-## 😇 Support me
-
-Support saya terus, supaya saya bisa lebih semangat membuat project - project bermanfaat untuk kalian semua. 
-
-- [Saweria](https://saweria.co/zaadevofc)
-- [Ko-fi](https://ko-fi.com/zaadevofc) 
-- [Buymeacoffe](https://www.buymeacoffee.com/zaadevofc)
-## 💌 Feedback
-
-If you have any feedback, please reach out to us at zaadevofc@gmail.com
-
 ## 🎩 Authors
 
-- [@zaadevofc](https://github.com/zaadevofc)
+- zaadevofc
 
